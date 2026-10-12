@@ -9,7 +9,7 @@
   &nbsp; · &nbsp;
   <a href="mailto:anamtakarim13@gmail.com">Email</a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/anamta-karim">Repositories</a>
+  <a href="https://github.com/anamta-karim?tab=repositories">Repositories</a>
 </p>
 
 ---
