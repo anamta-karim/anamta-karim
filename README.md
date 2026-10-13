@@ -10,6 +10,8 @@
   <a href="mailto:anamtakarim13@gmail.com">Email</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/anamta-karim?tab=repositories">Repositories</a>
+  &nbsp; · &nbsp;
+  <a href="https://anamta-karim.vercel.app/">Portfolio</a>
 </p>
 
 ---
