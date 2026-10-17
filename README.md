@@ -31,6 +31,13 @@ A skincare platform that combines ingredient analysis, personalized routines, an
 
 `Python` `Flask` `Sentence Transformers` `EasyOCR` `Groq LLM`
 
+### [Layoffs Data Analysis](https://github.com/anamta-karim/Layoffs-Data-Analysis)
+**SQL-based exploratory data analysis**
+
+Analyzed company layoffs from March 2020 to March 2023 using MySQL. Cleaned and standardized the dataset, investigated missing values and duplicates, and explored layoff patterns across companies, industries, countries, and time using aggregations, CTEs, window functions, rolling totals, and yearly rankings.
+
+`MySQL` `SQL` `Data Cleaning` `EDA` `CTEs` `Window Functions`
+
 ### Retinal Clinical Report Generation
 **In progress · Vision-language models**
 
