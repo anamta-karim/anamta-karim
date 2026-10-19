@@ -38,6 +38,13 @@ Analyzed company layoffs from March 2020 to March 2023 using MySQL. Cleaned and 
 
 `MySQL` `SQL` `Data Cleaning` `EDA` `CTEs` `Window Functions`
 
+### [Bike Sales Dashboard](https://github.com/anamta-karim/bike-sales-dashboard)
+**Interactive Excel dashboard**
+
+Cleaned and analyzed bike buyer data in Excel by removing duplicate records, standardizing customer attributes, and grouping ages into brackets. Built PivotTables, charts, and slicers to explore average income and bike purchase patterns by gender, age group, and commute distance.
+
+`Microsoft Excel` `Data Cleaning` `PivotTables` `PivotCharts` `Slicers` `Dashboard`
+
 ### Retinal Clinical Report Generation
 **In progress · Vision-language models**
 
