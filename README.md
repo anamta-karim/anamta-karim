@@ -45,6 +45,13 @@ Cleaned and analyzed bike buyer data in Excel by removing duplicate records, sta
 
 `Microsoft Excel` `Data Cleaning` `PivotTables` `PivotCharts` `Slicers` `Dashboard`
 
+### [Seattle Airbnb Market Analysis](https://github.com/anamta-karim/Seattle-Airbnb-Market-Analysis)
+**Interactive Tableau dashboard**
+
+Explored Seattle Airbnb listings using Tableau and Excel to analyze average prices by bedroom count, pricing differences across ZIP codes, listing distribution, and weekly calendar price trends in 2016. Built an interactive dashboard to help prospective hosts understand historical rental market patterns.
+
+`Tableau` `Excel` `Data Visualization` `Market Analysis` `Dashboard`
+
 ### Retinal Clinical Report Generation
 **In progress · Vision-language models**
 
