@@ -38,19 +38,19 @@ Analyzed company layoffs from March 2020 to March 2023 using MySQL. Cleaned and 
 
 `MySQL` `SQL` `Data Cleaning` `EDA` `CTEs` `Window Functions`
 
-### [Bike Sales Dashboard](https://github.com/anamta-karim/bike-sales-dashboard)
-**Interactive Excel dashboard**
-
-Cleaned and analyzed bike buyer data in Excel by removing duplicate records, standardizing customer attributes, and grouping ages into brackets. Built PivotTables, charts, and slicers to explore average income and bike purchase patterns by gender, age group, and commute distance.
-
-`Microsoft Excel` `Data Cleaning` `PivotTables` `PivotCharts` `Slicers` `Dashboard`
-
 ### [Seattle Airbnb Market Analysis](https://github.com/anamta-karim/Seattle-Airbnb-Market-Analysis)
 **Interactive Tableau dashboard**
 
 Explored Seattle Airbnb listings using Tableau and Excel to analyze average prices by bedroom count, pricing differences across ZIP codes, listing distribution, and weekly calendar price trends in 2016. Built an interactive dashboard to help prospective hosts understand historical rental market patterns.
 
 `Tableau` `Excel` `Data Visualization` `Market Analysis` `Dashboard`
+
+### [Bike Sales Dashboard](https://github.com/anamta-karim/bike-sales-dashboard)
+**Interactive Excel dashboard**
+
+Cleaned and analyzed bike buyer data in Excel by removing duplicate records, standardizing customer attributes, and grouping ages into brackets. Built PivotTables, charts, and slicers to explore average income and bike purchase patterns by gender, age group, and commute distance.
+
+`Microsoft Excel` `Data Cleaning` `PivotTables` `PivotCharts` `Slicers` `Dashboard`
 
 ### Retinal Clinical Report Generation
 **In progress · Vision-language models**
