@@ -38,6 +38,13 @@ Analyzed company layoffs from March 2020 to March 2023 using MySQL. Cleaned and 
 
 `MySQL` `SQL` `Data Cleaning` `EDA` `CTEs` `Window Functions`
 
+### [Data Professionals Survey Insights](https://github.com/anamta-karim/data-professionals-survey-insights)
+**Interactive Power BI dashboard**
+
+Cleaned and transformed survey data using Power Query, then built an interactive Power BI dashboard to explore salary trends across job titles, programming language preferences, respondent demographics, perceived barriers to entering data careers, and work-life balance and salary satisfaction.
+
+`Power BI` `Power Query` `Data Cleaning` `Data Visualization` `Dashboard`
+
 ### [Seattle Airbnb Market Analysis](https://github.com/anamta-karim/Seattle-Airbnb-Market-Analysis)
 **Interactive Tableau dashboard**
 
